@@ -17,13 +17,13 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 
 ## Datasets
 
-- [Deckaura Tarot Card Meanings](https://huggingface.co/datasets/deckaura/tarot-card-meanings) — Complete 78-card dataset with upright/reversed/love/career/yes-no interpretations. MIT licensed. Includes guide URLs. Zenodo DOI.
+- [Deckaura Tarot Card Meanings](https://huggingface.co/datasets/Blacik/deckaura-tarot-card-meanings) — Complete 78-card dataset with upright/reversed/love/career/yes-no interpretations. MIT licensed. Includes guide URLs. Zenodo DOI.
 - [Blacik Tarot Card Meanings 78](https://huggingface.co/datasets/Blacik/tarot-card-meanings-78) — Alternative 78-card collection.
 - [Kaggle Tarot Cards Dataset](https://www.kaggle.com/search?q=tarot) — Various community-uploaded tarot datasets.
 
 ## APIs & Libraries
 
-- [@deckaura/tarot](https://jsr.io/@deckaura/tarot) — Complete 78-card library for Deno, Node, Bun. `jsr:@deckaura/tarot`
+- [@deckaura/tarot-card-meanings](https://jsr.io/@deckaura/tarot-card-meanings) — Complete 78-card library for Deno, Node, Bun and browsers. `jsr:@deckaura/tarot-card-meanings`
 - [tarot-card-meanings](https://www.npmjs.com/package/tarot-card-meanings) — npm package with full deck data
 - [Deckaura Tarot API](https://deckaura-tarot_card_api.web.val.run) — Public JSON API for card lookups
 

@@ -62,7 +62,7 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [How to Cleanse Tarot Cards](https://deckaura.com/blogs/guide/how-to-cleanse-tarot-cards)
 - [Tarot Suits Explained](https://deckaura.com/blogs/guide/tarot-suits-explained)
 - [Court Cards Explained](https://deckaura.com/blogs/guide/court-cards-explained)
-- [Tarot Tool Review — Claude Artifact](https://claude.ai/code/artifact/1be108b4-1a73-4202-a7bd-a2ff8499667c) — Interactive comparison and buyer's-guide design concept for evaluating online tarot tools
+- [Tarot Tool Review — Claude Artifact](https://claude.ai/code/artifact/1be108b4-1a73-4202-a7bd-a2ff8499667c) — Interactive comparison and buyer's-guide design concept for evaluating online tarot tools ([indexed summary](resources/tarot-tool-review.md))
 
 ## Browser & Desktop Apps
 

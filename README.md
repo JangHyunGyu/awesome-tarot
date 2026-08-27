@@ -66,13 +66,21 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 
 ## Browser & Desktop Apps
 
-- [Daily Tarot Chrome Extension](https://chromewebstore.google.com/search/daily%20tarot) — New tab tarot card (by Deckaura)
 - [Tarot Journal for Obsidian](https://github.com/gokimedia/obsidian-tarot-journal) — Vault-integrated tarot logging
-- [Daily Tarot for Raycast](https://www.raycast.com/deckaura/daily-tarot) — Raycast extension
+- [Daily Tarot for Raycast](https://github.com/gokimedia/raycast-daily-tarot) — Open-source Raycast extension, pending Store publication
+
+## Open Data & Developer Resources
+
+- [Deckaura Open Data & AI Resources](https://deckaura.com/pages/ai-data-sources) — Canonical data and integration hub
+- [78-card dataset on Hugging Face](https://huggingface.co/datasets/Blacik/deckaura-tarot-card-meanings) — CSV, JSON, and JSONL dataset
+- [Live Tarot Dataset Explorer](https://gokimedia.github.io/tarot-dataset-explorer/) — Search and filter all 78 cards
+- [Deckaura Developer Documentation](https://gokimedia.github.io/deckaura-developer-docs/) — Packages, MCP setup, and citation guidance
+- [Official Deckaura Tarot MCP Registry record](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server) — Verified MCPB distribution metadata
+- [Permanent Zenodo DOI](https://doi.org/10.5281/zenodo.19475329) — Citable archive
 
 ## Academic Resources
 
-- [Zenodo: Tarot Card Meanings Dataset](https://zenodo.org) — DOI-citable dataset (pending deposit)
+- [Zenodo: Tarot Card Meanings Dataset](https://doi.org/10.5281/zenodo.19475329) — DOI-citable MIT-licensed dataset
 - [Wikidata: Tarot](https://www.wikidata.org/wiki/Q138745960) — Structured entity
 - Nichols, S. (1980). *Jung and Tarot: An Archetypal Journey*
 - Waite, A. E. (1909). *The Pictorial Key to the Tarot*

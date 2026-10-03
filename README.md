@@ -39,6 +39,7 @@ Maintained by [Deckaura](https://deckaura.com) — free tarot tools and 78-card 
 - [Tarot Combination Calculator](https://deckaura.com/pages/tarot-combination-calculator) — Two-card pairings
 - [Tarot Questions Guide](https://deckaura.com/pages/tarot-questions) — What to ask
 - [Tarot Spreads Guide](https://deckaura.com/pages/tarot-spreads) — Spread patterns
+- [Karma Tarot](https://karma.archerlab.dev/tarot) - Free Korean-language tarot reading with a three-card spread. No signup required.
 
 ## Astrology & Divination Tools
 
